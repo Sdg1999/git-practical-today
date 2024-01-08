@@ -1,2 +1,3 @@
 this is new line in file
 this the second line in file.txt
+addinf third line in file.txt
